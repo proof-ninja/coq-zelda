@@ -1,0 +1,6 @@
+-R theories Zel
+theories/Dec.v
+theories/Eq.v
+theories/Common.v
+theories/Dict.v
+theories/Zelda.v
